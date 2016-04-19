@@ -1,0 +1,8 @@
+{"items": [
+  {"ptype": "header", "title": "バーコード", "icons": [
+    {"id": "scan", "name": "camera_enhance"}, {"name": "title"}
+  ]},
+  {"ptype": "panel", "id": "panel",
+   "html": "<p>Text: %{text}</p><p>Format: %{format}</p><p>Canncelled: %{cancelled}</p>"
+  }
+]}

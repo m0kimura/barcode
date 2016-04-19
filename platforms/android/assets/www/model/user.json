@@ -1,0 +1,4 @@
+{"items": [
+  {"id": "user", "title": "ユーザーID", "type": "varchar", max: 25, check: ""},
+  {"id": "name", "title": "ユーザー名", "type": "varchar", max: 10, check: ""}
+]}
